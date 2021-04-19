@@ -1,5 +1,5 @@
 # Ender3v2Precompiled
-Pre compiled binaries using the Jacob Myers marlin version for E3v2, BLTouch using Z-endstop and filament sensor.
+Pre compiled binaries using the Jacob Myers marlin version for E3v2, BLTouch using Z-endstop and filament sensor. (note: filament sensor can be switched on/off in the menu on the printer)
 
 ## Big shoutout to Jacob Myers
 He really build the best version of Marlin for the Ender 3V2 to date.
