@@ -14,4 +14,4 @@ So I decided to compile this iteration using the Jyers open source marlin librar
 
 I compiled both for 4.2.2 and 4.2.7 (as this is a simple thing requiring only one small change in the configuration.h file).
 
-Again, big thanks to Jacob Myer!!!
+Again, big thanks to Jacob Myers!!!
