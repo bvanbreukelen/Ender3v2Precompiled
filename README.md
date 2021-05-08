@@ -1,3 +1,7 @@
+Always check for which motherboard the binary is compiled for (at the end of the file name you see either 422 or 427:
+-> 422 is for the standard creality V4.2.2 motherboard
+-> 427 is for the new/replacement creality V4.2.7 motherboard
+
 # Ender3v2Precompiled
 Pre compiled binaries using the Jacob Myers marlin version for E3v2, BLTouch using Z-endstop and filament sensor. (note: filament sensor can be switched on/off in the menu on the printer)
 
